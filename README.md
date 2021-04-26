@@ -1,8 +1,6 @@
 # 👋 Hi, I’m *Mayank Sharma*
+file:///home/sharmamayank941/Desktop/namecard.png![image](https://user-images.githubusercontent.com/47031060/116133535-72982b80-a6ec-11eb-8349-550d6eb25e27.png)
 
-x-special/nautilus-clipboard
-copy
-file:///home/sharmamayank941/Desktop/namecard.png
 
 
 - 👀 I’m interested in Full Stack Development, Android application development and Machine Learning
