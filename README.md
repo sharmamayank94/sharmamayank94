@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @sharmamayank94
+# 👋 Hi, I’m *Mayank Sharma*
+
+x-special/nautilus-clipboard
+copy
+file:///home/sharmamayank941/Desktop/namecard.png
+
+
 - 👀 I’m interested in Full Stack Development, Android application development and Machine Learning
 - 🌱 I’m currently learning Android Application development (native)
 - 📫 You can reach me on: sharmamayank941@gmail.com
